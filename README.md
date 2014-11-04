@@ -4,7 +4,7 @@ Booking-Application
 A simple booking for specific flight application.  
   
 1. Files structure  
-/ root  
+/ src  
  │─ IPassengerQuery.java  
  │─ IBooking.java  
  │─ IFlightQuery.java  
