@@ -20,5 +20,5 @@ A simple booking for specific flight application.
 ![image](https://github.com/thwang1206/Booking-Application/blob/master/UML%20Class%20Diagram.png)  
   
 4. ER Diagram  
-![image](https://github.com/thwang1206/Booking-Application/blob/master/UML%20Class%20Diagram.png)  
+![image](https://github.com/thwang1206/Booking-Application/blob/master/ER%20Diagram.png)  
 
